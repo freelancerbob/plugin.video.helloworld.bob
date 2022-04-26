@@ -9,4 +9,4 @@ line1 = "Hello World!2"
 line2 = "We can write anything we want here"
 line3 = "Using Python"
  
-xbmcgui.Dialog().ok(addonname, line1, line2, line3) 
+xbmcgui.Dialog().ok(addonname, line1) 
